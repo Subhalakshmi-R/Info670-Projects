@@ -1,0 +1,9 @@
+# ninja log v5
+5	50	0	C:/Users/subha/ShoppingListApp/android/app/.cxx/Debug/3c5o3q5o/x86/CMakeFiles/cmake.verify_globs	16aeb9a0a9c58f59
+5	5883	7665494122633903	CMakeFiles/appmodules.dir/C_/Users/subha/ShoppingListApp/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	f0126d995ee9a739
+1	6307	7665494126753199	CMakeFiles/appmodules.dir/OnLoad.cpp.o	62938fded36af28e
+6307	6472	7665494128672687	C:/Users/subha/ShoppingListApp/android/app/build/intermediates/cxx/Debug/3c5o3q5o/obj/x86/libappmodules.so	56c34e39693381a3
+4	50	0	C:/Users/subha/ShoppingListApp/android/app/.cxx/Debug/3c5o3q5o/x86/CMakeFiles/cmake.verify_globs	16aeb9a0a9c58f59
+2	34	0	C:/Users/subha/ShoppingListApp/android/app/.cxx/Debug/3c5o3q5o/x86/CMakeFiles/cmake.verify_globs	16aeb9a0a9c58f59
+2	28	0	C:/Users/subha/ShoppingListApp/android/app/.cxx/Debug/3c5o3q5o/x86/CMakeFiles/cmake.verify_globs	16aeb9a0a9c58f59
+6	138	0	C:/Users/subha/ShoppingListApp/android/app/.cxx/Debug/3c5o3q5o/x86/CMakeFiles/cmake.verify_globs	16aeb9a0a9c58f59

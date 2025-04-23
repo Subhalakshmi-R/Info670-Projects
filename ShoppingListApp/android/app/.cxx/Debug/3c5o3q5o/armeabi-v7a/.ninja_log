@@ -1,0 +1,9 @@
+# ninja log v5
+5	49	0	C:/Users/subha/ShoppingListApp/android/app/.cxx/Debug/3c5o3q5o/armeabi-v7a/CMakeFiles/cmake.verify_globs	7b1692dec80d120c
+2	3540	7665494017805513	CMakeFiles/appmodules.dir/C_/Users/subha/ShoppingListApp/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	abfd5bc38dfabea2
+7	3931	7665494021690552	CMakeFiles/appmodules.dir/OnLoad.cpp.o	cc899b284ca905df
+3932	4094	7665494023477501	C:/Users/subha/ShoppingListApp/android/app/build/intermediates/cxx/Debug/3c5o3q5o/obj/armeabi-v7a/libappmodules.so	f712375b01f8a849
+3	37	0	C:/Users/subha/ShoppingListApp/android/app/.cxx/Debug/3c5o3q5o/armeabi-v7a/CMakeFiles/cmake.verify_globs	7b1692dec80d120c
+4	52	0	C:/Users/subha/ShoppingListApp/android/app/.cxx/Debug/3c5o3q5o/armeabi-v7a/CMakeFiles/cmake.verify_globs	7b1692dec80d120c
+3	28	0	C:/Users/subha/ShoppingListApp/android/app/.cxx/Debug/3c5o3q5o/armeabi-v7a/CMakeFiles/cmake.verify_globs	7b1692dec80d120c
+8	89	0	C:/Users/subha/ShoppingListApp/android/app/.cxx/Debug/3c5o3q5o/armeabi-v7a/CMakeFiles/cmake.verify_globs	7b1692dec80d120c
