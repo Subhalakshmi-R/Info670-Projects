@@ -4,4 +4,4 @@
 
 ![App Screenshot][def]
 
-[def]: ./screenshot2.jng
+[def]:./screenshot2.jng
