@@ -2,6 +2,4 @@
 
 # Screenshot
 
-![App Screenshot][def]
-
-[def]:./screenshot2.jng
+![App Screenshot](./screenshot2.jng)
