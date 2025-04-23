@@ -2,4 +2,4 @@
 
 # Screenshot
 
-![App Screenshot] (./screenshot2.jng)
+![App Screenshot](./screenshot2.jpg)
