@@ -36,7 +36,7 @@ const GalleryScreen = ({ navigation }) => {
     setSelectedId(img.id);
     navigation.navigate('PictureView', {
       image: img.image,
-      caption: img.title, // Always pass full title
+      caption: img.title,
     });
   };
 
