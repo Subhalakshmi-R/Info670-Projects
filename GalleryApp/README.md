@@ -25,7 +25,7 @@ A React Native mobile app built with Expo.
 - Profile data is stored via `AsyncStorage`  
 - Success message on save
 ### Screenshot4 
-![Profile Saved](./screenshot4a.jpg)
+![Profile Saved](./screenshot4.jpg)
 
 ## Error Handling
 - Prevents saving when any required field is blank  
