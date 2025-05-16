@@ -50,8 +50,9 @@ const ProfileScreen = () => {
 
   return (
     <View style={styles.container}>
+      <Text style={styles.heading}>Profile View</Text>
       <TextInput
-        label="Pet's Name"
+        label="Name"
         value={dogName}
         onChangeText={setDogName}
         style={styles.input}
@@ -109,5 +110,12 @@ const styles = StyleSheet.create({
     justifyContent: 'space-between',
     alignItems: 'center',
     marginVertical: 16,
+  },
+  heading: {
+  fontSize: 24,
+  fontWeight: 'bold',
+  textAlign: 'center',
+  marginBottom: 24,
+  color: '#333',
   },
 });
