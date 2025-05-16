@@ -17,14 +17,16 @@ Allows users to:
 
 # Assignment 3: Gallery App
 
-This app was built using Expo.
+This app was built using React Native and Expo.
 
 Highlights:
 - Displays a image gallery
 - Opens full-screen image view
+- Highlights image when selected
 - Customizable profile screen
 - Stores profile data
-- Toggle controls caption visibility
+- Error handling in profile screen
+- Toggle controls caption visibility in gallery
 
 ### This is a preview. Full screenshots are inside the /GalleryApp folder
 
