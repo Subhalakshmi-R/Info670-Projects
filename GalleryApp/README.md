@@ -27,9 +27,9 @@ A React Native mobile app built with Expo.
 ### Screenshot4 
 ![Profile Saved](./screenshot4.jpg)
 
-## Error
+## Error Handling
 - Prevents saving when any required field is blank  
-- Displays error message
+- Displays an error message
 ### Screenshot5
 ![Error](./screenshot5.jpg)
 
