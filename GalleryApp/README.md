@@ -19,25 +19,25 @@ A React Native mobile app built with Expo.
 - Gender as Radio button
 - Switch to Show Captions
 # Screenshot3
-![Profile Screen](./screenshot3a.jpg)
+![Profile Screen](./screenshot3.jpg)
 
 # Profile Saved
 - Profile data is stored via `AsyncStorage`  
 - Success message on save
 # Screenshot4 
-![Profile Saved](./screenshot4a.jpg)
+![Profile Saved](./screenshot4.jpg)
 
 # Error
 - Prevents saving when any required field is blank  
 - Displays error message
 # Screenshot5
-![Error](./screenshot5a.jpg)
+![Error](./screenshot5.jpg)
 
 # Captions Off
 - Caption toggle in Profile screen is set to off 
 - Setting is saved and affects gallery dynamically
 # Screenshot6 
-![Caption OFF](./screenshot6a.jpg)
+![Caption OFF](./screenshot6.jpg)
 
 # Captions Hidden
 - Cards now display without titles  
