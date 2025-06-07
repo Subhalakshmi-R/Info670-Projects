@@ -45,3 +45,4 @@ Highlights:
 - Bonus: Used PDO for database integration
 
 ### This is a preview. Full screenshots are inside the /DeadlineHub folder
+![App 4 Screenshot](./DeadlineHub/screenshot1.png)
