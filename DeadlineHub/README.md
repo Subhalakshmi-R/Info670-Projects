@@ -75,10 +75,10 @@ The app uses an SQLite database named homework.db.
 
 Table: assignments
 Field- Type- Description
-id-	INTEGER-	Primary key, auto-incremented
-course-	TEXT-	Course name
-title-	TEXT-	Assignment title
-due_date-	TEXT-	Stored in YYYY-MM-DD format
+id-	INTEGER-	Primary key (auto-incremented), 
+course-	TEXT-	Course name,
+title-	TEXT-	Assignment title,
+due_date-	TEXT-	Stored in YYYY-MM-DD format,
 notes-	TEXT-	Optional notes
 
 # Screenshot 9
