@@ -35,8 +35,22 @@ A React Native mobile app to track assignment deadlines, built using Expo.
 - `getAssignment.php` returns data as JSON for the View screen  
 - Uses `homework.db` file stored locally
 
+### addAssignment.php
+Method: GET
+Description: Adds a new assignment to the database.
+
+Parameters:
+course – Course name ("INFO670")
+title – Assignment title ("HW4")
+due_date – Due date in YYYY-MM-DD format
+notes – Optional notes (e.g., "API Creation")
+
 # Screenshot5 
 ![Add Assignment](./screenshot6.png)
+
+### getAssignment.php
+Method: GET
+Description: Retrieves all assignments from the database in JSON format.
 
 # Screenshot6
 ![PHP API in Action](./screenshot5.png)
@@ -55,6 +69,17 @@ A React Native mobile app to track assignment deadlines, built using Expo.
 # Extra Credit
 - Data persistence via actual SQLite database
 - Used with `PDO` in PHP for safe insert and fetch operations
+
+### Database Schema
+The app uses an SQLite database named homework.db.
+
+Table: assignments
+Field- Type- Description
+id-	INTEGER-	Primary key, auto-incremented
+course-	TEXT-	Course name
+title-	TEXT-	Assignment title
+due_date-	TEXT-	Stored in YYYY-MM-DD format
+notes-	TEXT-	Optional notes
 
 # Screenshot 9
 ![Database Interaction](./screenshot9.png)
