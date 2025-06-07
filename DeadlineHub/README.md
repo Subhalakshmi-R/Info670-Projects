@@ -39,7 +39,7 @@ A React Native mobile app to track assignment deadlines, built using Expo.
 ![Add Assignment](./screenshot6.png)
 
 # Screenshot6
-![PHP API in Action](./screenshot5.jpg)
+![PHP API in Action](./screenshot5.png)
 
 # Validation and Feedback
 - Prevents blank submissions  
