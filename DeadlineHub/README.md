@@ -45,6 +45,8 @@ title – Assignment title ("HW4")
 due_date – Due date in YYYY-MM-DD format
 notes – Optional notes (e.g., "API Creation")
 
+http://localhost/Assignment4/addAssignment.php?course=INFO670&title=HW4&due_date=2025-06-12&notes=APICreation
+
 # Screenshot5 
 ![Add Assignment](./screenshot6.png)
 
