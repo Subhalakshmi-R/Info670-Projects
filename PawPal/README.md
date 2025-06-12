@@ -11,7 +11,7 @@ PawPal enables pet owners to:
 - View and complete personalized medical care reminders
 - Update their owner profile info securely
 
-Targeted at busy pet owners, PawPal helps ensure that routine care like grooming and medications aren’t forgotten.
+Targeted at busy pet owners, PawPal helps ensure that routine care like medications and grooming aren’t forgotten.
 
 ---
 
@@ -40,7 +40,7 @@ A walkthrough of PawPal’s full functionality:
 ![User Profile Screen](screenshots/user_profile_screen.png)
 
 ### Owner Profile Screen
-- View and update name, phone number, and password
+- View owner information and update name, phone number, and password
     
 ![Owner Profile Screen](screenshots/owner_profile_screen.png)
 
@@ -69,7 +69,7 @@ A walkthrough of PawPal’s full functionality:
 ![Pet Manager After Add](screenshots/pet_manager_screen_after_add.png)
 
 ### Pet Details Screen
-- View details like microchip, implant date, medical records
+- View details like microchip, implant date, medical reminders
     
 ![Pet Details Screen](screenshots/pet_details_screen.png)
 
@@ -98,7 +98,7 @@ A walkthrough of PawPal’s full functionality:
 ![Add Medical Reminder](screenshots/add_medical_reminder.png)
 
 ### Added Medical Reminder
-- Confirmation or visual of added reminder
+- Confirmation of added reminder
   
 ![Added Medical Reminder](screenshots/added_medical_reminder.png)
 
@@ -108,12 +108,12 @@ A walkthrough of PawPal’s full functionality:
 ![Medical Reminders Screen](screenshots/medical_reminders_screen.png)
 
 ### Mark Medical Reminder Done
-- Tap to mark as completed
+- Tap to mark reminder as completed
 
 ![Mark Medical Reminder Done](screenshots/medical_reminder_done.png)
 
 ### Updated Pet Details
-- View showing pet data after update
+- View showing pet data after updating details
   
 ![Updated Pet Details](screenshots/updated_pet_details.png)
 ---
@@ -139,19 +139,19 @@ All backend services are built using PHP and integrated with an SQLite database.
 - **Params**: `username`, `name`, `phone`, `password`
 
 ### `add_pet.php`, `get_pets.php`, `delete_pet.php`, `update_pet.php`, `get_pet_detail.php`
-- Manage pet profiles
+- Manages pet profiles
 
-### `get_reminders.php`, `mark_reminder_done.php`
-- Manage grooming/medical reminders
+### `add_medical_records.php`, `get_pet_records.php`
+- For adding and retrieving medical reminders
 
 ---
 
 ## Medical Reminders Feature
 
 The **Medical Reminders** screen shows upcoming pet care tasks such as:
-- Nail trimming
-- Hair grooming
 - Vaccination schedules
+- Deworming schedules
+- Hair grooming/ Nail trimming
 - Regular checkups
 - Insurance payments
 
