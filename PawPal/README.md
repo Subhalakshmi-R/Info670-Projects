@@ -21,84 +21,83 @@ A walkthrough of PawPal’s full functionality:
 
 ### Home Screen
 - Home page to log into the system  
-`screenshots/home_screen.png`
+![Home Screen](screenshots/home_screen.png)
 
 ### Register Screen
 - New user registration with validation  
-`screenshots/register_screen.png`
+![Register Screen](screenshots/register_screen.png)
 
 ### Registered User View
 - Confirmation or redirect after registration  
-`screenshots/registered_user_screen.png`
+![Registered User View](screenshots/registered_user_screen.png)
 
 ### User Profile Screen
 - Welcome page with navigation to My Profile, Pets, and Reminders  
-`screenshots/user_profile_screen.png`
+![User Profile Screen](screenshots/user_profile_screen.png)
 
 ### Owner Profile Screen
 - View and update name, phone number, and password  
-`screenshots/owner_profile_screen.png`
+![Owner Profile Screen](screenshots/owner_profile_screen.png)
 
 ### Update Profile Screen
 - Confirmation view after updating profile  
-`screenshots/update_profile_screen.png`
+![Update Profile Screen](screenshots/update_profile_screen.png)
 
 ### Add Pet Screen
 - Add a new pet with name, type, age, etc.  
-`screenshots/add_pet_screen.png`
+![Add Pet Screen](screenshots/add_pet_screen.png)
 
 ### Pet Added Confirmation
 - Confirmation after adding a new pet  
-`screenshots/pet_added_screen.png`
+![Pet Added Confirmation](screenshots/pet_added_screen.png)
 
 ### Pet Manager Screen
 - View all pets registered to the user  
-`screenshots/pet_manager_screen.png`
+![Pet Manager Screen](screenshots/pet_manager_screen.png)
 
 ### Pet Manager After Add
 - Refreshed list showing newly added pet  
-`screenshots/pet_manager_screen_after_add.png`
+![Pet Manager After Add](screenshots/pet_manager_screen_after_add.png)
 
 ### Pet Details Screen
 - View details like microchip, implant date, medical records  
-`screenshots/pet_details_screen.png`
+![Pet Details Screen](screenshots/pet_details_screen.png)
 
 ### Edit Pet Details
 - Edit age, microchip number, and implant date  
-`screenshots/edit_pet_details.png`
+![Edit Pet Details](screenshots/edit_pet_details.png)
 
 ### Edited Pet Details
 - Confirmation or updated view after editing  
-`screenshots/edited_pet_details.png`
+![Edited Pet Details](screenshots/edited_pet_details.png)
 
-### Delete Pet Flow
+### Delete Pet
 - Delete button interaction  
-`screenshots/delete_pet.png`
+![Delete Pet Flow](screenshots/delete_pet.png)
 
 ### Deleted Pet View
 - Confirmation of pet deletion  
-`screenshots/deleted_pet.png`
+![Deleted Pet View](screenshots/deleted_pet.png)
 
 ### Add Medical Reminder
 - Form to add new medical/grooming reminder  
-`screenshots/add_medical_reminder.png`
+![Add Medical Reminder](screenshots/add_medical_reminder.png)
 
 ### Added Medical Reminder
 - Confirmation or visual of added reminder  
-`screenshots/added_medical_reminder.png`
+![Added Medical Reminder](screenshots/added_medical_reminder.png)
 
 ### Medical Reminders Screen
 - View reminders sorted by urgency  
-`screenshots/medical_reminders_screen.png`
+![Medical Reminders Screen](screenshots/medical_reminders_screen.png)
 
 ### Mark Medical Reminder Done
 - Tap to mark as completed  
-`screenshots/medical_reminder_done.png`
+![Mark Medical Reminder Done](screenshots/medical_reminder_done.png)
 
 ### Updated Pet Details
 - View showing pet data after update  
-`screenshots/updated_pet_details.png`
-
+![Updated Pet Details](screenshots/updated_pet_details.png)
 ---
 
 ## Server API Design & Specification
