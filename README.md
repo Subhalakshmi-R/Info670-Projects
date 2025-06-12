@@ -54,7 +54,7 @@ PawPal is a mobile app built with React Native (Expo), PHP, and SQLite for manag
 
 Highlights:
 - Add, edit, and delete pet profiles
-- View pet details
+- View pet details and corresponding reminders
 - Track medical reminders like vaccines, insurace dues, checkups and grooming
 - Mark reminders as completed
 - Create and update owner profile securely
