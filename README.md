@@ -46,3 +46,23 @@ Highlights:
 
 ### This is a preview. Full screenshots are inside the /DeadlineHub folder
 ![App 4 Screenshot](./DeadlineHub/screenshot1.png)
+
+
+# Final Project: PawPal
+
+PawPal is a mobile app built with React Native (Expo), PHP, and SQLite for managing pet profiles and medical reminders.
+
+Highlights:
+- Add, edit, and delete pet profiles
+- View pet details
+- Track medical reminders like vaccines, insurace dues, checkups and grooming
+- Mark reminders as completed
+- Create and update owner profile securely
+- Screens for registration, login, pets, reminders, and profile
+- Server integration using PHP and SQLite
+- Real-time UI updates on record changes
+- Used PDO with parameter binding for secure DB operations
+
+### This is a preview. Full screenshots are inside the `/PawPal/screenshots` folder
+![PawPal Preview](./PawPal/screenshots/home_screen.png)
+
