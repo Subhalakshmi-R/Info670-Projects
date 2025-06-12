@@ -65,4 +65,4 @@ Highlights:
 
 ### This is a preview. Full screenshots are inside the `/PawPal/screenshots` folder
 ![PawPal Preview](./PawPal/screenshots/home_screen.png)
-
+![PawPal DB Preview](./Project-DB/db_screenshot.png)
