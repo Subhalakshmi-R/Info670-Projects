@@ -161,7 +161,7 @@ Reminders are shown in order of urgency (soonest due date first), and users can 
 {
   "success": true,
   "message": "User registered successfully"
-}
+}```
 ---
 
 ## Experiences
