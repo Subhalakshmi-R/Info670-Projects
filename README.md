@@ -1,4 +1,4 @@
-# Info 670- Assignments
+# Info 670- Assignments & Final Project
 
 # Assignment 1: App screenshot
 This app was built using Expo and displays my name.
