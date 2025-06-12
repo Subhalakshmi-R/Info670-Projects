@@ -187,7 +187,7 @@ Reminders are shown in order of urgency (soonest due date first), and users can 
 ## Experiences
 
 ### Key Features Implemented
-- Frontend with 7+ screens using React Native
+- Frontend with 9 screens using React Native
 - Owner login/register and profile updates
 - Pet profile CRUD operations
 - Urgent medical reminder tracking
