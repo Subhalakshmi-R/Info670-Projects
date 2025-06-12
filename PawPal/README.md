@@ -20,31 +20,38 @@ Targeted at busy pet owners, PawPal helps ensure that routine care like grooming
 A walkthrough of PawPal’s full functionality:
 
 ### Home Screen
-- Home page to log into the system  
+- Home page to log into the system
+   
 ![Home Screen](screenshots/home_screen.png)
 
 ### Register Screen
-- New user registration with validation  
+- New user registration with validation
+    
 ![Register Screen](screenshots/register_screen.png)
 
 ### Registered User View
-- Confirmation or redirect after registration  
+- Confirmation or redirect after registration
+    
 ![Registered User View](screenshots/registered_user_screen.png)
 
 ### User Profile Screen
-- Welcome page with navigation to My Profile, Pets, and Reminders  
+- Welcome page with navigation to My Profile, Pets, and Reminders
+    
 ![User Profile Screen](screenshots/user_profile_screen.png)
 
 ### Owner Profile Screen
-- View and update name, phone number, and password  
+- View and update name, phone number, and password
+    
 ![Owner Profile Screen](screenshots/owner_profile_screen.png)
 
 ### Update Profile Screen
-- Confirmation view after updating profile  
+- Confirmation view after updating profile
+    
 ![Update Profile Screen](screenshots/update_profile_screen.png)
 
 ### Add Pet Screen
-- Add a new pet with name, type, age, etc.  
+- Add a new pet with name, type, age, etc.
+   
 ![Add Pet Screen](screenshots/add_pet_screen.png)
 
 ### Pet Added Confirmation
@@ -52,23 +59,28 @@ A walkthrough of PawPal’s full functionality:
 ![Pet Added Confirmation](screenshots/pet_added_screen.png)
 
 ### Pet Manager Screen
-- View all pets registered to the user  
+- View all pets registered to the user
+    
 ![Pet Manager Screen](screenshots/pet_manager_screen.png)
 
 ### Pet Manager After Add
-- Refreshed list showing newly added pet  
+- Refreshed list showing newly added pet
+ 
 ![Pet Manager After Add](screenshots/pet_manager_screen_after_add.png)
 
 ### Pet Details Screen
-- View details like microchip, implant date, medical records  
+- View details like microchip, implant date, medical records
+    
 ![Pet Details Screen](screenshots/pet_details_screen.png)
 
 ### Edit Pet Details
-- Edit age, microchip number, and implant date  
+- Edit age, microchip number, and implant date
+
 ![Edit Pet Details](screenshots/edit_pet_details.png)
 
 ### Edited Pet Details
-- Confirmation or updated view after editing  
+- Confirmation or updated view after editing
+ 
 ![Edited Pet Details](screenshots/edited_pet_details.png)
 
 ### Delete Pet
@@ -76,27 +88,33 @@ A walkthrough of PawPal’s full functionality:
 ![Delete Pet Flow](screenshots/delete_pet.png)
 
 ### Deleted Pet View
-- Confirmation of pet deletion  
+- Confirmation of pet deletion
+
 ![Deleted Pet View](screenshots/deleted_pet.png)
 
 ### Add Medical Reminder
-- Form to add new medical/grooming reminder  
+- Form to add new medical/grooming reminder
+  
 ![Add Medical Reminder](screenshots/add_medical_reminder.png)
 
 ### Added Medical Reminder
-- Confirmation or visual of added reminder  
+- Confirmation or visual of added reminder
+  
 ![Added Medical Reminder](screenshots/added_medical_reminder.png)
 
 ### Medical Reminders Screen
-- View reminders sorted by urgency  
+- View reminders sorted by urgency
+  
 ![Medical Reminders Screen](screenshots/medical_reminders_screen.png)
 
 ### Mark Medical Reminder Done
-- Tap to mark as completed  
+- Tap to mark as completed
+
 ![Mark Medical Reminder Done](screenshots/medical_reminder_done.png)
 
 ### Updated Pet Details
-- View showing pet data after update  
+- View showing pet data after update
+  
 ![Updated Pet Details](screenshots/updated_pet_details.png)
 ---
 
@@ -161,7 +179,9 @@ Reminders are shown in order of urgency (soonest due date first), and users can 
 {
   "success": true,
   "message": "User registered successfully"
-}```
+}
+```
+
 ---
 
 ## Experiences
